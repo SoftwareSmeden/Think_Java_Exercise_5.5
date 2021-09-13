@@ -4,8 +4,8 @@ public class Main {
     // Think Java - Exercise 5.5                            Steps:
 
     public static void main(String[] args) {                //1
-        boolean flag1 = isHoopy(202);                    //2
-        boolean flag2 = isFrabjuous(202);                //9
+        boolean flag1 = isHoopy(202);                       //2
+        boolean flag2 = isFrabjuous(202);                   //9
         System.out.println(flag1);                          //16
         System.out.println(flag2);                          //17
         if (flag1 && flag2) {                               //18
